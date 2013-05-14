@@ -62,5 +62,6 @@ changequote([,])dnl
 AC_OUTPUT([
   Makefile 
   src/Makefile
+  etc/Makefile
 ])
 
